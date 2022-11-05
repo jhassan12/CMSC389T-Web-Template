@@ -1,6 +1,6 @@
 # cmsc388T-web-template
 
-GitHub Pages link: https://jhassan12.github.io/CMSC389T-Web-Template/
+GitHub Pages link: https://jhassan12.github.io/CMSC389T-Web-Template/<br />
 TerpConnect link: https://terpconnect.umd.edu/~jhassan1/CMSC389T-Web-Template/
 
 ## Custom changes
