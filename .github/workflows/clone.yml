@@ -3,9 +3,9 @@ on:
   workflow_dispatch:
 jobs:
   job_one:
-  name: clone
-  runs-on: ubuntu-latest
-  steps:
+    name: clone
+    runs-on: ubuntu-latest
+    steps:
     - name: testing
       uses: appleboy/ssh-action@master
       with:
